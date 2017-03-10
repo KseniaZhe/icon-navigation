@@ -1,0 +1,42 @@
+html {
+  font-family: "Abhaya Libre", serif;
+  color: #fff;
+}
+
+.masthead {
+  background-color: #423ca3;
+}
+
+.card {
+  background-color: #15114c;
+  border-radius: 10px;
+}
+
+.card {
+  text-decoration: none;
+  color: #fff;
+}
+
+.card:hover {
+  color: #15114c;
+  background-color: #fff;
+}
+
+.logo {
+  text-align: center;
+}
+
+.nav {
+  text-align: center;
+}
+
+@media only screen and (min-width: 60em) {
+
+  .logo {
+    text-align: left;
+  }
+
+  .nav {
+    text-align: right;
+  }
+}
