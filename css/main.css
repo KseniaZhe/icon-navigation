@@ -10,9 +10,6 @@ html {
 .card {
   background-color: #15114c;
   border-radius: 10px;
-}
-
-.card {
   text-decoration: none;
   color: #fff;
 }
